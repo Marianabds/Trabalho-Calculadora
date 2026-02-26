@@ -5,7 +5,7 @@
  - O aplicativo deve exibir os elementos selecionados na tela.
  - O aplicativo deve realizar cálculos de adição, subtração, multiplicação, divisão e porcentagem.
  - O aplicativo deve ser capaz de realizar operações com números inteiros e reais.
- - O aplicativo não deve permitir divisões por zero.
+ - O aplicativo deve exibir uma mensagem de erro quando o usuário tentar realizar uma divisão por zero.
 
 ## Protótipo:
 
